@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testgggame/c1/static/css/main.9150a660.css",
+    "main.js": "/testgggame/c1/static/js/main.4f400da8.js",
+    "index.html": "/testgggame/c1/index.html",
+    "main.9150a660.css.map": "/testgggame/c1/static/css/main.9150a660.css.map",
+    "main.4f400da8.js.map": "/testgggame/c1/static/js/main.4f400da8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9150a660.css",
+    "static/js/main.4f400da8.js"
+  ]
+}
