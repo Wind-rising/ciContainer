@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lvanSign_4/c4/static/css/main.9150a660.css",
+    "main.js": "/lvanSign_4/c4/static/js/main.b9b58ac8.js",
+    "index.html": "/lvanSign_4/c4/index.html",
+    "main.9150a660.css.map": "/lvanSign_4/c4/static/css/main.9150a660.css.map",
+    "main.b9b58ac8.js.map": "/lvanSign_4/c4/static/js/main.b9b58ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9150a660.css",
+    "static/js/main.b9b58ac8.js"
+  ]
+}
